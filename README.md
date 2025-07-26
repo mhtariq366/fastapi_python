@@ -1,2 +1,2 @@
 # practise_python
-Something amazing
+Something amazing.
